@@ -1,0 +1,182 @@
+#full{
+    width: 1518px;
+    height:9000px;
+    background-color: white;
+    display: block;
+}
+
+#main{
+    width:80%;
+    height:30px;
+    margin: auto;
+    background-color:whitesmoke;
+}
+
+#row{
+    width: 80%;
+    height:820px;
+    margin: auto;
+    background-color:white;
+}
+
+.product-image{
+    width:50%;
+    height:100%;
+    background-color:white;
+    float: left;
+}
+
+.images{
+    width:550px;
+}
+
+.figure{
+    text-align: center;
+}
+
+.fotorama{
+    width:90px;
+    padding: 5px;
+}
+
+.product-parameters{
+    width:50%;
+    height:100%;
+    background-color:white;
+    float:right
+}
+
+.logo{
+    width: 50px;
+}
+
+.care{
+    vertical-align:middle;
+    padding: 10px;
+}
+
+.promotion{
+    color:red;
+    font-size: 25px;
+    font-weight: 500px;
+}
+
+.serif{
+    font-size:20px;
+}
+
+.sale-price{
+    color:red;
+}
+
+.buy{
+    width: 180px;
+    height:50px;
+    background-color: red;
+    border-radius:7px;
+    text-decoration: none;
+}
+
+.oder{
+    color:white;
+    font-size:30px;
+    text-align:center;
+    padding-top: 5px;
+}
+
+#Featured{
+    width: 80%;
+    height: 420px;
+    background-color: white;
+    margin: auto;
+}
+
+.recommended{
+    color:white;
+    font-size:22px;
+    margin:20px;
+    padding:-50px;
+    background-color:red;
+    border-radius: 7px;
+    margin-right:860px;
+}
+
+.arial{
+    float: left;
+}
+
+
+.wrapper{
+    width:200px;
+    height:320px;
+    background-color:whitesmoke;
+    margin:20px;
+    padding:15px;
+}
+
+.acer{
+    width:200px;
+}
+
+#parameters{
+    width:80%;
+    height:7300px;
+    background-color:white;
+    border: 1px ridge rgba(0, 0, 0, 0.239);
+    margin: auto;
+}
+
+
+.menu2{
+    width: 80%;
+    height:50px;
+    background-color:white;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-bottom: -20px;
+}
+
+.arrow{
+    padding:9px;
+    background-color:white;
+    margin-top:200px;
+}
+
+.low{
+    color: black;
+    border: 1px ridge rgba(0, 0, 0, 0.239);
+}
+
+.acces{
+    color:black;
+}
+
+.table{
+    border: 4px solid black;
+    border-collapse:separate; 
+}
+
+td{
+    border: 1px solid rgba(0, 0, 0, 0.198);
+    color:black;
+    width:77.5%;
+    padding: 8px;
+}
+
+th{
+    border:1px solid rgba(0, 0, 0, 0.198);
+    color:black;
+    padding-right: 150px;
+    margin-left: px;
+    text-align: left;
+    background-color: whitesmoke;
+
+}
+
+.tubor{
+    color:black;
+}
+
+.victus{
+    width:1200px;
+}
